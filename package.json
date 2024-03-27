@@ -7,6 +7,7 @@
   "bin": {
     "generator-cli": "build/command.js"
   },
+  "repository": "https://github.com/Hesham1902/generator-cli.git",
   "type": "module",
   "types": "build/index.d.ts",
   "scripts": {
